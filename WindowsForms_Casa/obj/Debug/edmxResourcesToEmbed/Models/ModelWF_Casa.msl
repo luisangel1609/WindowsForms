@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FundamentosModelStoreContainer" CdmEntityContainer="EntitiesWF_Casa">
+    <EntitySetMapping Name="Casa">
+      <EntityTypeMapping TypeName="FundamentosModel.Casa">
+        <MappingFragment StoreEntitySet="Casa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="MetrosCuadrados" ColumnName="MetrosCuadrados" />
+          <ScalarProperty Name="DuenioAnterior" ColumnName="DuenioAnterior" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

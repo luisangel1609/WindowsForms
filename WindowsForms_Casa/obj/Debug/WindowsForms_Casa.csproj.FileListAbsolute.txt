@@ -1,0 +1,16 @@
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\WindowsForms_Casa.exe.config
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\WindowsForms_Casa.exe
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\WindowsForms_Casa.pdb
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\EntityFramework.dll
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\EntityFramework.xml
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.csproj.AssemblyReference.cache
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.Form1.resources
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.Presentacion.FormularioTabla.resources
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.Properties.Resources.resources
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.csproj.GenerateResource.cache
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.csproj.CopyComplete
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.exe
+C:\Users\Luis Angel\Documents\WindowsForms_Casa\WindowsForms_Casa\obj\Debug\WindowsForms_Casa.pdb
